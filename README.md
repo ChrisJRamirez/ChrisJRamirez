@@ -5,7 +5,7 @@
 <p>
   Hello! My name is Chris Ramirez and I am a Full Stack Web Developer with a background in operations and financial analysis. Currently seeking new opportunities in the U.S. (ideally remote positions, but I am located in the North East). I would love to be close to mountains and national parks. 
 I am strong with HTML, CSS, JavaScript, React, Redux, Node, SQL, Git and deployment with Netlify, Vercel or Heroku. I worked in the middle office at UBS in Structured Products for 1.5 years, and have been working in accounting and finance roles over the last 3 years at Westwood One. These positions have enhanced my communication and analytical skills to a huge degree. 
-To learn more about me, please feel free to reach out at ChristopherJamesRamirez@gmail.com or with a LinkeIn DM.
+To learn more about me, please feel free to reach out at ChrisJamesRamirez@gmail.com or with a LinkeIn DM.
 Thanks for reading!
 </p>
 
